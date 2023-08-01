@@ -1,7 +1,7 @@
 # EDA-Superstore
 ![Superstore-1](https://github.com/1nvl/EDA-Superstore/assets/140528919/ed8c0bee-b8ee-43ed-8e81-8cf457214cdf)
 ![Superstore-2](https://github.com/1nvl/EDA-Superstore/assets/140528919/dcf8f7f6-acd0-48a1-bd55-8bd38262da37)
-# Data Used
+# Data Used 
 Data - Superstore Sales Dataset with 9800 rows from the year 2015 to 2018
 
 Data Cleaning & Analysis - SQLite
